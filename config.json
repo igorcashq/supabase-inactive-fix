@@ -1,6 +1,6 @@
 [
   {
-    "name": "EmailEaseGuru",
+    "name": "EmailChat!",
     "supabase_url": "https://jvhnqkaumgfcawsbqfdi.supabase.co",
     "supabase_key_env": "SUPABASE_SERVICE_KEY",
     "table_name": "keep-alive"

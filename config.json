@@ -2,7 +2,7 @@
   {
     "name": "EmailChat!",
     "supabase_url": "https://jvhnqkaumgfcawsbqfdi.supabase.co",
-    "supabase_key_env": "SUPABASE_SERVICE_KEY",
+    "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
 ]
